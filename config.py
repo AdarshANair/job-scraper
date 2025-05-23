@@ -49,7 +49,7 @@ LINKEDIN_SEARCH_QUERIES = ["it support", "Incident manager", "application suppor
 LINKEDIN_LOCATION = "Singapore"
 LINKEDIN_GEO_ID = 102454443 # Singapore
 LINKEDIN_JOB_TYPE = "F" # Full-time
-LINKEDIN_JOB_POSTING_DATE = "r86400" # Past 24 hours
+LINKEDIN_JOB_POSTING_DATE = "" # Past 24 hours
 
 #  --- Careers Future Search Configuration ---
 CAREERS_FUTURE_SEARCH_QUERIES = ["it support", "Incident manager", "application support", "IT team lead", "IT technical Support"]
